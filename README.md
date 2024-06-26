@@ -8,4 +8,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cagannn&show_icons=true&locale=en&layout=compact" alt="cagannn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cagannn&show_icons=true&locale=en" alt="cagannn" /></p>
